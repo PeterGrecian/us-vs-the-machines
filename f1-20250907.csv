@@ -1,0 +1,140 @@
+Gemini
+
+Position,Driver,Team
+1,Charles Leclerc,Ferrari
+2,Oscar Piastri,McLaren
+3,Max Verstappen,Red Bull
+4,Lando Norris,McLaren
+5,George Russell,Mercedes
+6,Kimi Antonelli,Mercedes
+7,Lewis Hamilton,Ferrari
+8,Alex Albon,Williams
+9,Isack Hadjar,Racing Bulls
+10,Liam Lawson,Racing Bulls
+11,Yuki Tsunoda,Red Bull
+12,Carlos Sainz,Williams
+13,Pierre Gasly,Alpine
+14,Esteban Ocon,Haas
+15,Nico Hulkenberg,Sauber
+16,Ollie Bearman,Haas
+17,Fernando Alonso,Aston Martin
+18,Lance Stroll,Aston Martin
+19,Gabriel Bortoleto,Sauber
+20,Franco Colapinto,Alpine
+
+
+grok
+Position,Driver,Team
+1,Oscar Piastri,McLaren
+2,Lando Norris,McLaren
+3,Charles Leclerc,Ferrari
+4,Max Verstappen,Red Bull Racing
+5,Lewis Hamilton,Ferrari
+6,George Russell,Mercedes
+7,Kimi Antonelli,Mercedes
+8,Carlos Sainz,Williams
+9,Isack Hadjar,Racing Bulls
+10,Fernando Alonso,Aston Martin
+11,Sergio Perez,Red Bull Racing
+12,Alex Albon,Williams
+13,Lance Stroll,Aston Martin
+14,Yuki Tsunoda,Racing Bulls
+15,Kevin Magnussen,Haas
+16,Nico Hulkenberg,Haas
+17,Valtteri Bottas,Kick Sauber
+18,Zhou Guanyu,Kick Sauber
+19,Jack Doohan,Alpine
+20,Pierre Gasly,Alpine
+
+grok Think harder
+Position,Driver,Team
+1,Oscar Piastri,McLaren
+2,Lando Norris,McLaren
+3,Charles Leclerc,Ferrari
+4,Max Verstappen,Red Bull Racing
+5,Lewis Hamilton,Ferrari
+6,George Russell,Mercedes
+7,Kimi Antonelli,Mercedes
+8,Carlos Sainz,Williams
+9,Isack Hadjar,Racing Bulls
+10,Fernando Alonso,Aston Martin
+11,Liam Lawson,Red Bull Racing
+12,Yuki Tsunoda,Racing Bulls
+13,Alex Albon,Williams
+14,Pierre Gasly,Alpine
+15,Esteban Ocon,Haas
+16,Nico Hulkenberg,Sauber
+17,Oliver Bearman,Haas
+18,Lance Stroll,Aston Martin
+19,Jack Doohan,Alpine
+20,Gabriel Bortoleto,Sauber
+
+
+copilot
+Position,Driver,Team,Predicted Outcome
+1,Oscar Piastri,McLaren,Win
+2,Max Verstappen,Red Bull,Podium
+3,Lando Norris,McLaren,Podium
+4,George Russell,Mercedes,Top 5
+5,Charles Leclerc,Ferrari,Top 5
+6,Fernando Alonso,Aston Martin,Points
+7,Lewis Hamilton,Mercedes,Points
+8,Carlos Sainz,Ferrari,Points
+9,Alex Albon,Williams,Points
+10,Kimi Antonelli,Ferrari,Points
+11,Esteban Ocon,Alpine,Midfield
+12,Liam Lawson,AlphaTauri,Midfield
+13,Nico Hulkenberg,Haas,Midfield
+14,Yuki Tsunoda,AlphaTauri,Midfield
+15,Lance Stroll,Aston Martin,Midfield
+16,Pierre Gasly,Alpine,Backmarker
+17,Isack Hadjar,Red Bull,Backmarker
+18,Franco Colapinto,Alpine,Backmarker
+19,Gabriel Bortoleto,Williams,Backmarker
+20,Oliver Bearman,Haas,DNF
+
+co-pilot think deeper
+Position,Driver,Team,Outcome
+1,Oscar Piastri,McLaren,Win
+2,Max Verstappen,Red Bull,Podium
+3,Lando Norris,McLaren,Podium
+4,George Russell,Mercedes,Top 5
+5,Charles Leclerc,Ferrari,Top 5
+6,Fernando Alonso,Aston Martin,Points
+7,Lewis Hamilton,Mercedes,Points
+8,Carlos Sainz,Ferrari,Points
+9,Alex Albon,Williams,Points
+10,Kimi Antonelli,Ferrari,Points
+11,Esteban Ocon,Alpine,Points
+12,Liam Lawson,AlphaTauri,Points
+13,Nico Hulkenberg,Haas,Points
+14,Yuki Tsunoda,AlphaTauri,Points
+15,Lance Stroll,Aston Martin,Points
+16,Pierre Gasly,Alpine,Points
+17,Isack Hadjar,Red Bull,Points
+18,Franco Colapinto,Alpine,Points
+19,Gabriel Bortoleto,Williams,Points
+20,Oliver Bearman,Haas,DNF
+
+claude
+Position,Driver,Team,Nationality,Points_Awarded
+1,Oscar Piastri,McLaren,AUS,25
+2,Lando Norris,McLaren,GBR,18
+3,Charles Leclerc,Ferrari,MON,15
+4,Lewis Hamilton,Ferrari,GBR,12
+5,Max Verstappen,Red Bull Racing,NED,10
+6,George Russell,Mercedes,GBR,8
+7,Liam Lawson,Red Bull Racing,NZL,6
+8,Andrea Kimi Antonelli,Mercedes,ITA,4
+9,Carlos Sainz,Williams,ESP,2
+10,Alexander Albon,Williams,THA,1
+11,Nico Hulkenberg,Sauber,GER,0
+12,Esteban Ocon,Haas,FRA,0
+13,Oliver Bearman,Haas,GBR,0
+14,Fernando Alonso,Aston Martin,ESP,0
+15,Lance Stroll,Aston Martin,CAN,0
+16,Pierre Gasly,Alpine,FRA,0
+17,Jack Doohan,Alpine,AUS,0
+18,Yuki Tsunoda,RB,JPN,0
+19,Isack Hadjar,RB,FRA,0
+20,Gabriel Bortoleto,Sauber,BRA,0

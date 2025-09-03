@@ -46,6 +46,10 @@ To run the analysis and see the results, execute the main script from the root d
 
 ```bash
 python src/main.py
+
+or
+python src/main.py --sport football 
+if this functionality is added
 ```
 
 ### File Structure

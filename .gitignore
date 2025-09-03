@@ -1,0 +1,6 @@
+# VS Code workspace file
+*.code-workspace
+
+# Virtual environment directory
+.venv/
+

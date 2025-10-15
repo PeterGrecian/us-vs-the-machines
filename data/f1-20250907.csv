@@ -1,6 +1,6 @@
 Gemini
 
-Position,Driver,Team
+Position,DRIVER,Team
 1,Charles Leclerc,Ferrari
 2,Oscar Piastri,McLaren
 3,Max Verstappen,Red Bull
@@ -24,7 +24,7 @@ Position,Driver,Team
 
 
 grok
-Position,Driver,Team
+Position,DRIVER,Team
 1,Oscar Piastri,McLaren
 2,Lando Norris,McLaren
 3,Charles Leclerc,Ferrari
@@ -47,7 +47,7 @@ Position,Driver,Team
 20,Pierre Gasly,Alpine
 
 grok Think harder
-Position,Driver,Team
+Position,DRIVER,Team
 1,Oscar Piastri,McLaren
 2,Lando Norris,McLaren
 3,Charles Leclerc,Ferrari
@@ -71,7 +71,7 @@ Position,Driver,Team
 
 
 copilot
-Position,Driver,Team,Predicted Outcome
+Position,DRIVER,Team,Predicted Outcome
 1,Oscar Piastri,McLaren,Win
 2,Max Verstappen,Red Bull,Podium
 3,Lando Norris,McLaren,Podium
@@ -94,7 +94,7 @@ Position,Driver,Team,Predicted Outcome
 20,Oliver Bearman,Haas,DNF
 
 co-pilot think deeper
-Position,Driver,Team,Outcome
+Position,DRIVER,Team,Outcome
 1,Oscar Piastri,McLaren,Win
 2,Max Verstappen,Red Bull,Podium
 3,Lando Norris,McLaren,Podium
@@ -117,7 +117,7 @@ Position,Driver,Team,Outcome
 20,Oliver Bearman,Haas,DNF
 
 claude
-Position,Driver,Team,Nationality,Points_Awarded
+Position,DRIVER,Team,Nationality,Points_Awarded
 1,Oscar Piastri,McLaren,AUS,25
 2,Lando Norris,McLaren,GBR,18
 3,Charles Leclerc,Ferrari,MON,15
@@ -138,3 +138,26 @@ Position,Driver,Team,Nationality,Points_Awarded
 18,Yuki Tsunoda,RB,JPN,0
 19,Isack Hadjar,RB,FRA,0
 20,Gabriel Bortoleto,Sauber,BRA,0
+
+Results
+POS.,NO.,DRIVER,TEAM,LAPS,TIME / RETIRED,PTS.
+1,1,Max Verstappen,Red Bull Racing,53,1:13:24.325,25
+2,4,Lando Norris,McLaren,53,+19.207s,18
+3,81,Oscar Piastri,McLaren,53,+21.351s,15
+4,16,Charles Leclerc,Ferrari,53,+25.624s,12
+5,63,George Russell,Mercedes,53,+32.881s,10
+6,44,Lewis Hamilton,Ferrari,53,+37.449s,8
+7,23,Alexander Albon,Williams,53,+50.537s,6
+8,5,Gabriel Bortoleto,Kick Sauber,53,+58.484s,4
+9,12,Kimi Antonelli,Mercedes,53,+59.762s,2
+10,6,Isack Hadjar,Racing Bulls,53,+63.891s,1
+11,55,Carlos Sainz,Williams,53,+64.469s,0
+12,87,Oliver Bearman,Haas,53,+79.288s,0
+13,22,Yuki Tsunoda,Red Bull Racing,53,+80.701s,0
+14,30,Liam Lawson,Racing Bulls,53,+82.351s,0
+15,31,Esteban Ocon,Haas,52,+1 lap,0
+16,10,Pierre Gasly,Alpine,52,+1 lap,0
+17,43,Franco Colapinto,Alpine,52,+1 lap,0
+18,18,Lance Stroll,Aston Martin,52,+1 lap,0
+NC,14,Fernando Alonso,Aston Martin,24,DNF,0
+NC,27,Nico Hulkenberg,Kick Sauber,0,DNS,0
